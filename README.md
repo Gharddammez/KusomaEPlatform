@@ -4,8 +4,7 @@ Kusoma E-Learning is a e-learning platform that allows users to lear the new com
 
 
 ## About
-The project allows each individual to take a test after reading through the well crafted topics under each lesson and subject and the graded.
-To make the learning competitive the site grades each user per task and evaluates the final score giving the final score and ranking them on the leaderboard with other users.
+Kusoma E-learning Platform (KEP) is a web-based language learning platform designed to help users learn new languages through interactive lessons, quizzes, and practice exercises. Our goal is to make language learning accessible and engaging for users of all ages and proficiency levels
 
 ## Development
 The project is developed with Django Framework, CSS, HTML, JS and Bootsrap CSS.
