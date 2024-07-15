@@ -34,4 +34,6 @@ The projects' future update is more entirely on making the system known to the s
 The projects' tasks are not automatically marked and this will be part of the future update alondside the addition of other subjects and courses alike.
 
 ## Author
-- Ephesians Lewis Ochieng
+- Jafred Obeli
+- Joseph Otieno
+- esther Wafula
