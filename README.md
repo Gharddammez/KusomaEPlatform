@@ -35,4 +35,4 @@ The projects' tasks are not automatically marked and this will be part of the fu
 ## Author
 - Jafred Obeli
 - Joseph Otieno
-- esther Wafula
+- Esther Nyongesa
