@@ -1,6 +1,7 @@
 # Kusoma E-Learning
 ![Image Screenshot](image.png)
-"C:\Users\SEJOH\Downloads\background.jpg"
+![background](https://github.com/user-attachments/assets/311369ef-a264-489d-b790-0af1bc26b082)
+
 Kusoma E-Learning is a e-learning platform that allows users to lear the new competency based curriculm. The subjects in the site are developed and crafted following the KICD Curriculum Designs for each subject.
 
 
