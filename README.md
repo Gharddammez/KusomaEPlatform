@@ -1,13 +1,11 @@
 # Kusoma E-Learning
-![fotor-ai-202407179273](https://github.com/user-attachments/assets/bc814515-cdc6-4d7a-998e-bad4c8e21da1)
-
-
-
+![Image Screenshot](image.png)
 Kusoma E-Learning is a e-learning platform that allows users to lear the new competency based curriculm. The subjects in the site are developed and crafted following the KICD Curriculum Designs for each subject.
 
 
 ## About
-Kusoma E-learning Platform (KEP) is a web-based language learning platform designed to help users learn new languages through interactive lessons, quizzes, and practice exercises. Our goal is to make language learning accessible and engaging for users of all ages and proficiency levels
+The project allows each individual to take a test after reading through the well crafted topics under each lesson and subject and the graded.
+To make the learning competitive the site grades each user per task and evaluates the final score giving the final score and ranking them on the leaderboard with other users.
 
 ## Development
 The project is developed with Django Framework, CSS, HTML, JS and Bootsrap CSS.
@@ -36,6 +34,4 @@ The projects' future update is more entirely on making the system known to the s
 The projects' tasks are not automatically marked and this will be part of the future update alondside the addition of other subjects and courses alike.
 
 ## Author
-- Jafred Obeli
-- Joseph Otieno
-- Esther Nyongesa
+- Jafred Obeli, Joseph Otieno ,Esther Nyongesa
